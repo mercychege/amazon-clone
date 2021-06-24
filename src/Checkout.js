@@ -26,8 +26,6 @@ function Checkout() {
               rating={item.rating}
             />
           ))}
-          {/* CheckoutProduct */}
-          {/* CheckoutProduct*/}
         </div>
       </div>
       <div className="checkout__right">
